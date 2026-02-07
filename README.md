@@ -9,6 +9,10 @@ A Python automation script that automatically backs up screenshots into date-bas
 - Prevents overwriting existing backups
 - Simple and lightweight automation script
 
+## Demo
+https://github.com/himanihassija/scheduled-file-backup/blob/main/file%20backup.png
+
+
 ## Technologies Used
 - Python
 - os
